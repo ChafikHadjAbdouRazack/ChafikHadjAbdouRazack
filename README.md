@@ -29,7 +29,7 @@ I'm a passionate software developer with a keen interest in building impactful a
 
 - **Email:** chafikhadjabdourazack@gmail.com
 - **LinkedIn:** [Chafik Hadj Abdou Razack](https://www.linkedin.com/in/chafik-hadj-abdou-razack-4a3758104/)
-- **Twitter:** [@yourtwitterhandle](https://x.com/chafik_Hadj)
+- **Twitter:** [@chafik_Hadj](https://x.com/chafik_Hadj)
   
 
 ## 🌐 Find Me Online
