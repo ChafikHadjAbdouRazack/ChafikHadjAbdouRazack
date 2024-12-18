@@ -4,30 +4,20 @@ I'm a passionate software developer with a keen interest in building impactful a
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning and exploring new technologies in the field of web development and cloud computing.
+- 🌱 I’m available for consultation and contract work.
 - 👯 I’m looking to collaborate on open-source projects and innovative software solutions.
-- 💬 Ask me about web development, cloud computing, or any tech-related topics.
-- 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/chafik-hadj-abdou-razack-4a3758104/)
+- 📫 How to reach me: [Email](mailto:chafikhadjabdourazack@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chafik-hadj-abdou-razack-4a3758104/)
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, Python, Java, C++
-- **Frontend:** React, Angular, HTML, CSS
-- **Backend:** Node.js, Express, Django, Spring Boot
+- **Languages:** JavaScript, TypeScript, PHP, Dart
+- **Frontend:** Vue, HTML, CSS, Tailwind CSS, Flutter
+- **Backend:** Node.js, NestJs, Laravel
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
-- **Cloud:** AWS, Azure, Google Cloud Platform
-
-## 🔥 Projects
-
-### [Project Name 1](https://github.com/ChafikHadjAbdouRazack/project-name-1)
-Description: A brief description of what this project is about and the technologies used.
-
-### [Project Name 2](https://github.com/ChafikHadjAbdouRazack/project-name-2)
-Description: A brief description of what this project is about and the technologies used.
-
-### [Project Name 3](https://github.com/ChafikHadjAbdouRazack/project-name-3)
-Description: A brief description of what this project is about and the technologies used.
+- **DevOps:** Docker, GitHub Actions
+- **Cloud:** AWS, DigitalOcean
+- **Tools:** PhpStorm, Vscode, Notion, Postman, Tinkerwell, Ray, Android Studio, Xcode
+  
 
 ## 📈 GitHub Stats
 
@@ -37,9 +27,10 @@ Description: A brief description of what this project is about and the technolog
 
 ## 📫 Get in Touch
 
-- **Email:** your-email@example.com
+- **Email:** chafikhadjabdourazack@gmail.com
 - **LinkedIn:** [Chafik Hadj Abdou Razack](https://www.linkedin.com/in/chafik-hadj-abdou-razack-4a3758104/)
 - **Twitter:** [@yourtwitterhandle](https://x.com/chafik_Hadj)
+  
 
 ## 🌐 Find Me Online
 
