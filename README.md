@@ -1,4 +1,4 @@
-# Hi there, I'm Chafik Hadj Abdou Razack! 👋
+# Hi there, I'm Chafik! 👋
 
 I'm a passionate software developer with a keen interest in building impactful applications and continuously learning new technologies. Welcome to my GitHub profile!
 
