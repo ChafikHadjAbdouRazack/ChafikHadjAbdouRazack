@@ -25,6 +25,8 @@ I'm a passionate software developer with a keen interest in building impactful a
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChafikHadjAbdouRazack&layout=compact&theme=radical)
 
+[![wakatime](https://wakatime.com/badge/user/bac12a53-3ee1-4833-8b51-f97ef8346888.svg)](https://wakatime.com/@bac12a53-3ee1-4833-8b51-f97ef8346888)
+
 ## 📫 Get in Touch
 
 - **Email:** chafikhadjabdourazack@gmail.com
