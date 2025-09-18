@@ -10,9 +10,9 @@ I'm a passionate software developer with a keen interest in building impactful a
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, TypeScript, PHP, Dart, Golang
+- **Languages:** JavaScript, TypeScript, PHP, Dart
 - **Frontend:** Vue, HTML, CSS, Tailwind CSS, Flutter
-- **Backend:** Node.js, NestJs, Laravel, Gin Web Framework
+- **Backend:** Node.js, NestJs, Laravel
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **DevOps:** Docker, GitHub Actions
 - **Cloud:** AWS, DigitalOcean
